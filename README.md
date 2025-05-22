@@ -63,7 +63,7 @@ The Data set includes: [Soundstream User Data](https://docs.google.com/spreadshe
 
 
 # Revenue Simulation
-  - 50,75 and 100% free-to-premium user upgrades
+  - 50%, 75% and 100% free-to-premium user upgrades
 
 ![Revenune Simulation](https://github.com/user-attachments/assets/2f0122eb-f6e5-4fbd-9c71-01a94ccd4c71)
 
