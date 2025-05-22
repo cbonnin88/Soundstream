@@ -59,7 +59,8 @@ The Data set includes: [Soundstream User Data](https://docs.google.com/spreadshe
 
  - Churn Rate: Identified users inactive for 30+ days as churned
 
-![Active vs Churned Users](https://github.com/user-attachments/assets/23a285a0-fd26-4190-93d7-63205901f425)
+![Days inactive](https://github.com/user-attachments/assets/ee77d604-88ed-4fed-ae3a-8ca211cb3047)
+
 
 
 # Revenue Simulation
