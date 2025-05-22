@@ -49,7 +49,7 @@ The Data set includes: [Soundstream User Data](https://docs.google.com/spreadshe
    - Retention Analysis
 
 # Key Insights
-  - User Actions: Most common user activity is stream_song, followed by create_list
+  - User Actions: Most common user activity is upgrade_premium, followed by like_song
     
 ![Top Actions Performed](https://github.com/user-attachments/assets/10c69b9a-535e-41a6-be9e-a761644cfb2c)
 
